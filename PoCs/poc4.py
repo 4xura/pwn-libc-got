@@ -1,7 +1,7 @@
 # Title       : PoC for Hijacking glibc internal GOT/PLT to RCE
 # Author      : Axura
 # Target      : GLIBC 2.35-0ubuntu3.4 (Ubuntu 22.04)
-# Website     :
+# Website     : https://4xura.com/pwn/pwn-got-hijack-libcs-internal-got-plt-as-rce-primitives/
 # Vuln script : https://github.com/4xura/pwn-libc-got/blob/main/demo/vuln.c
 # Tags        : PLT0, GOT0, writable _GLOBAL_OFFSET_TABLE_, ROP, system
 
